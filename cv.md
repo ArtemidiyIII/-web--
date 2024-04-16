@@ -6,6 +6,7 @@
 - Address: Mogilev, Timiryazevskaya street
 - Phone: +375(29)7432155  
 - E-mail: Artemiy@gmail.com
+- VK: [https://m.vk.com/id367982882](https://m.vk.com/id367982882 "ссылка на vk")
 ## My skills:
 * #### C#
 * #### C++
@@ -15,7 +16,7 @@
 ## My projects:
 * *[Курсовой проект на тему "Бюро находок"](https://bru.by "ссылка на сайт БРУ")*
 * *Это CV*
-## Example of program code:
+## Example of program code(sorting by alphabet):
 ```
 static bool CompareByAlphabet(string s1, string s2)
 {
