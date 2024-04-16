@@ -1,1 +1,1 @@
-# https://artemidiyiii.github.io/Osnovy-web-programirovaniya/markdown/cv.md
+# https://artemidiyiii.github.io/Osnovy-web-programirovaniya/Markdown/cv.md
