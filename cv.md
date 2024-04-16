@@ -1,7 +1,7 @@
-![my_foto](https://drive.google.com/file/d/1ljQYkDyGQZoZWYg_2UFGIZtRbRT-qYg2/view?usp=sharing](https://drive.google.com/file/d/1ljQYkDyGQZoZWYg_2UFGIZtRbRT-qYg2 "Моя фотография")
+![my_photo](https://drive.google.com/file/d/1ljQYkDyGQZoZWYg_2UFGIZtRbRT-qYg2 "Моя фотография")
 ----
 ## About me:
-*I'm 20 years old student of the Belarusian-Russian University. I like to study and learn something new.*
+*I'm 20 years old student of the Belarusian-Russian University. I like programming in C#, reading books and learn something new.*
 ## My contacts:
 - Address: Mogilev, Timiryazevskaya street
 - Phone: +375(29)7432155  
